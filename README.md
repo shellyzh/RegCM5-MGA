@@ -12,7 +12,7 @@ ifort prog.main.f90 -o runga.exe
 
 Among the .f90 files, please replace **{your_working_dir}** with the path to your working directory, and replace **{your_fitness_function}** with the path to your defined fitness functions
 
-Two examples are included in *fitness-function-examples*, one for mean absolute error (MAE) based on precipitation values, and one for normalized root mean square error (NRMSE) based on precipitation values.
+Two examples are included in *fitness-function-examples*, one for mean absolute error (MAE) based on precipitation values, and one for normalized root mean square error (NRMSE) based on precipitation values. Replace the directory of observation files with your own data storage directory.
 
 Contact information:
 Dr.Thanh Nguyen-Xuan: nxthanhnx@gmail.com
