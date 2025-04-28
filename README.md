@@ -20,6 +20,7 @@ Ms. Zixuan Zhou: zzhoubh@connect.ust.hk
 Professor Eun-Soon Im: ceim@ust.hk
 
 
+--------------------------------------------
 # TNX sugguestion
 ## General Usage Instructions
 
@@ -41,7 +42,7 @@ Professor Eun-Soon Im: ceim@ust.hk
 2. Among the **.f90** files, please replace **{your_working_dir}** with the path to your working directory, and replace **{your_fitness_function}** with the path to your defined fitness functions. Two examples are included in *fitness-function-examples*, one for mean absolute error (MAE) based on precipitation values, and one for normalized root mean square error (NRMSE) based on precipitation values. Replace the directory of observation files with your own data storage directory.
 
 
-##Contact information:
+## Contact information:
 * Dr. Thanh Nguyen-Xuan: nxthanhnx@gmail.com
 * Ms. Zixuan Zhou: zzhoubh@connect.ust.hk
 * Professor Eun-Soon Im: ceim@ust.hk
